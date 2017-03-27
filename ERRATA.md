@@ -8,3 +8,4 @@ Official ERRATA for first published version:
 - (found by Jim Shapiro) Page 100, near the bottom of the page: "So in Figure 32.2 ..." should refer to Figure 32.3, the figure with the derivative.
 - (found by [Mark Hunacek](http://www.maa.org/press/maa-reviews/prime-numbers-and-the-riemann-hypothesis)) - there is no third formulation of the Riemann Hypothesis.  (There used to be one, but we deleted it, but still left the fourth as "the fourth formulation".)
 - (found by [Mark Hunacek](http://www.maa.org/press/maa-reviews/prime-numbers-and-the-riemann-hypothesis)) - the definition of the Bernoulli numbers on page 120 is nonstandard.
+- I think that the prime (the derivative) of the Fourier transform of fi should be deleted (2 times on p. 111, l. 3).
